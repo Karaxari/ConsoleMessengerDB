@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleMessenger.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ConnectionDB.cpp
+C:\Users\Karak\source\repos\ConsoleMessengerDB\ConsoleMessenger\MessangerUser.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Karak\source\repos\ConsoleMessengerDB\ConsoleMessenger\ConnectionDB.cpp(102,37): warning C4101: 'V_OD_rowcount': unreferenced local variable
+C:\Users\Karak\source\repos\ConsoleMessengerDB\ConsoleMessenger\ConnectionDB.cpp(99,17): warning C4101: 'sqlVersion': unreferenced local variable
+C:\Users\Karak\source\repos\ConsoleMessengerDB\ConsoleMessenger\ConnectionDB.cpp(151,37): warning C4101: 'V_OD_rowcount': unreferenced local variable
+C:\Users\Karak\source\repos\ConsoleMessengerDB\ConsoleMessenger\ConnectionDB.cpp(148,17): warning C4101: 'sqlVersion': unreferenced local variable
+C:\Users\Karak\source\repos\ConsoleMessengerDB\ConsoleMessenger\ConnectionDB.cpp(124): warning C4715: 'ConnectionDB::setSQL': not all control paths return a value
+  ConsoleMessenger.vcxproj -> C:\Users\Karak\source\repos\ConsoleMessengerDB\x64\Debug\ConsoleMessengerDB.exe
